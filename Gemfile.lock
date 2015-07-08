@@ -1,0 +1,17 @@
+PATH
+  remote: .
+  specs:
+    jasny_bundle_fixed (2.1.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  jasny_bundle_fixed!
+
+BUNDLED WITH
+   1.10.5

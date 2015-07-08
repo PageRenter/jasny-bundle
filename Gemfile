@@ -1,3 +1,5 @@
+ruby '2.1.2'
+#ruby=2.1.2@jasny
 source "https://rubygems.org"
 
 # Declare your gem's dependencies in jasny_bootstrap_extension_rails.gemspec.
